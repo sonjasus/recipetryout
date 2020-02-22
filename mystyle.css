@@ -11,11 +11,13 @@ main {
 }
 
 article {
-  float: left;
-  padding: 20px;
-  width: 70%;
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
   background-color: #f1f1f1;
-  height: 300px; 
+  width: 30%;
+  height: 60%;
+  padding: 10px;
 }
 
 
