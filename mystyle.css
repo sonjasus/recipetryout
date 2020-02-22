@@ -2,6 +2,13 @@ body {
   background-color: lightblue;
 }
 
+main {
+  background-color: red;
+  width: 200px;
+  height: 500px;
+}
+
+
 h1 {
   color: navy;
   margin-left: 20px;
