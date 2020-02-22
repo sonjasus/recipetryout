@@ -3,10 +3,10 @@ body {
 }
 
 main {
-  background-color: red;
-  width: 200px;
+<!--  background-color: red; -->
+  width: 500px;
   height: 500px;
-<!-- background-image: url('img_girl.jpg'); -->
+  background-image: url('https://previews.123rf.com/images/fukuro/fukuro1802/fukuro180200099/95903722-vector-blank-linear-ruled-notebook-page-on-transparent-background-.jpg'); 
 
 }
 
